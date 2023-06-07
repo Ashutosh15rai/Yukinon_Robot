@@ -59,13 +59,13 @@ If you want to make your bot even more unique, you can create a customized Yukin
 
 <!-- <img style="width:300px; height: 200px;" href="https://youtu.be/ZUvFSU8W7VA" src="https://telegra.ph/file/cf3a10a7f61f62983d2ca.png" alt="youtube"> -->
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TechShreyash/Yukinon_Robot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ashutosh15rai/Yukinon_Robot)
 
 ## Contact & Support Chats
 
- - [Owner](https://t.me/TechShreyash)
- - [Updates Channel](https://t.me/TechZBots)
- - [Support Group](https://t.me/TechZBots_Support)
+ - [Owner](https://t.me/Shadow_Sanpai)
+ - [Updates Channel](https://t.me/French_Bot_Updates)
+ - [Support Group](https://t.me/Anime_Chat_French)
  - [Documentation](https://szsupunma.gitbook.io/rose-bot/)
 
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
@@ -76,4 +76,4 @@ Yukinon is licensed under [GNU Affero General Public License](https://www.gnu.or
 
 ## Contributions
 #### Contributions are welcome.
-![Contributors](https://contrib.rocks/image?repo=TechShreyash/Yukinon_Robot)
+![Contributors](https://contrib.rocks/image?repo=Ashutosh15rai/Yukinon_Robot)
